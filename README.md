@@ -1,1 +1,1 @@
-My fist odin project where I develop a google home pate using html and css
+My fist odin project where I develop a google home page using html and css
